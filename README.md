@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Harold Irving Puma Polo</h1>
 
--🏫 Third-cycle student at a university, specializing in frontend development with knowledge of React and Node.js.
--🌱 Passionate about learning and staying up-to-date with the latest web technologies.
--🔭 Seeking opportunities to collaborate in webinars and meetups.
--💬 Willing to share knowledge and answer questions about web development.
--😄 Pronouns: 'he/his'
--⚡ Interested in becoming a future full-stack developer!
--📫 Contact: pumapoloharold123@gmail.com
+- 🏫 Third-cycle student at a university, specializing in frontend development with knowledge of React and Node.js.
+- 🌱 Passionate about learning and staying up-to-date with the latest web technologies.
+- 🔭 Seeking opportunities to collaborate in webinars and meetups.
+- 💬 Willing to share knowledge and answer questions about web development.
+- 😄 Pronouns: 'he/his'
+- ⚡ Interested in becoming a future full-stack developer!
+- 📫 Contact: pumapoloharold123@gmail.com
 
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

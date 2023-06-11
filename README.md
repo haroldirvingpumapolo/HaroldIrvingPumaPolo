@@ -1,23 +1,14 @@
-mg src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a
-
-
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Harold Irving Puma Polo</h1>
+
 - 🔭 I’m currently working on different projects around the world 🌍
 - 🌱 I’m currently learning more about web dev
 - 👯 I’m looking to collaborate webinar,meetup...
 - 💬 Ask me about to be a web dev
 - 😄 Pronouns: 'he/him'
 - ⚡ Fun fact: If u know JS, all frameworks are easy
-- 📫 Contact: gabrielomarquisperosas@gmail.com
-<h3 align="left">A passionate frontend developer from Lima, Perú</h3>
+- 📫 Contact: pumapoloharold123@gmail.com
 
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
